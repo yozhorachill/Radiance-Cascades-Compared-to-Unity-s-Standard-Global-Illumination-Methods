@@ -22,5 +22,12 @@ NVIDIA RTX 4060 Laptop GPU
 Intel Core i7-13620H
 
 
+## License
 
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Quick Start
+
+1. Open Unity Hub and load the project using Unity version `6000.2.12f1`.
+2. Access performance datasets located inside the `Measured Data` directory.
 
